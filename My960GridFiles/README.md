@@ -1,0 +1,1 @@
+This was a sample project done as a student at Nashville Software to learn the basics of the 960 grid layout.
