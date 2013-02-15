@@ -1,0 +1,65 @@
+body {
+  background: white;
+  color: #333;
+  font-size: 11px;
+  height: auto;
+  padding-bottom: 20px;
+}
+
+nav {
+	font-family: Arial, Veranda, sans-serif;
+	font-size: 14px;
+color: gray;}
+
+
+#menu li a{
+text-decoration: none;
+color: gray;
+}
+
+
+/*a {
+  color: red;
+  text-decoration: none;
+}*/
+
+a:hover {
+  text-decoration: underline;
+}
+
+h1 {
+  font-family: Georgia, serif;
+  font-weight: normal;
+  padding-top: 20px;
+  text-align: center;
+  color: gray;
+
+
+.grid_8 {
+	/*background: gray;*/
+}
+.grid_4 {
+	/*background-color: purple;*/
+	height:130px;
+	/*border:1px black;*/
+}
+.grid_5 {
+	/*background-color: green;*/
+	height: 300px;
+}
+.grid_3 {
+	/*background-color: blue;*/
+}
+/*.grid_3, .alpha, .omega {
+	background-color: red;*/
+	/*height: 200px;*/
+}
+
+
+
+
+
+
+
+
+
